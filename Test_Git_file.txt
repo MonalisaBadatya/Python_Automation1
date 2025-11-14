@@ -1,1 +1,4 @@
 This file is created to track & add a local file to GitHub
+  git config --global user.email "monab0703@gmail.com"
+  git config --global user.name "Monalisa"
+
